@@ -1,2 +1,2 @@
 # Hello World
-![GitHub Logo](/ima/win/s1.png)
+![GitHub Logo](/img/win/s1.png)
