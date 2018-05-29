@@ -10,11 +10,14 @@
 
 ## 学习翻墙
 ### Windows
-1. 点击下载Shadowsocks Windows客户端软件
+1. 点击下载[shadowsocks](https://pan.baidu.com/s/1hyBZQPvoxRIJwQ_lJ-zTpw)Windows客户端软件。
 2. 填写或选择提供VPN服务的海外服务器IP地址(server Addr)，服务端口(server port)，密码(password)，加密方式(Encryption)，其余默认即可，并点击确定(ok)保存，以上服务器ip地址等需要填写的信息可在文末获得。
+![步骤二图片](/img/win/s2.png)
 3. 此时软件已最小化再托盘区(就是QQ后台运行时候图标显示的区域)。找到它并对它右击选择启动代理(Enable System Proxy).
+![步骤三图片](/img/win/s3.png)
 4. 打开浏览器，访问谷歌。如果访问成功，那么恭喜！
-5.如果不成功的话，请再托盘区右击它并选择帮助(help)->日志(show logs)并截图发到群里。群名片见二维码。
+5.如果不成功的话，请再托盘区右击它并选择帮助(help)->日志(show logs)并截图日志内容发到群里。群名片见二维码。
+![步骤五图片](/img/win/s5.png)
 6.在进行第五步时候，请重复前四部进行查错。
 
 ## 其他
@@ -35,3 +38,10 @@
 
 ## 关于
 由于海外服务器需要租赁费用，因此的话，大家可自愿选择是否资助，也可加微信外贸网络知识群一起交流行业知识，认识新朋友。
+
+![微信二维码](/img/wecht_qrcode.png)  
+### 作者二维码
+![微信支付](/img/pay/wechat.png) 
+### 微信收款二维码                     
+![支付宝支付](/img/pay/alipay.png)
+### 支付宝收款二维码
