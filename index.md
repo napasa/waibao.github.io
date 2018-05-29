@@ -32,12 +32,14 @@
 1. 点击下载[shadowsocks](https://pan.baidu.com/s/1uec9bM7d_IKJyTnTj3k2lQ)并安装安卓客户端软件并打开。
 
 2.填写或选择提供VPN服务的海外服务器(server Addr)，远程端口(server port)，密码(password)，加密方法(Encryption)，其余默认即可，并点击确定(ok)保存，以上服务器ip地址等需要填写的信息可在文末获得。
-
 ![步骤一图片](/img/android/s1.jpg)
 
-3.填写配置。以上服务器ip地址等需要填写的信息可在文末获得。![步骤二图片](/img/android/s2.jpg)
+3.填写配置。以上服务器ip地址等需要填写的信息可在文末获得。
+![步骤二图片](/img/android/s2.jpg)
 
-4.点击箭头所指按钮启动代理。![步骤三图片](/img/android/s3.jpg)
+4.点击箭头所指按钮启动代理。
+
+![步骤三图片](/img/android/s3.jpg)
 
 5.打开浏览器，访问谷歌。如果访问成功，那么恭喜！
 
